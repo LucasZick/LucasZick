@@ -1,14 +1,23 @@
-<!--
-**LucasZick/LucasZick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+I am a developer with a passion for creating efficient and elegant solutions. My skills include experience in multiple programming languages such as:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Dart with Flutter
+- JavaScript with React JS
+
+I also have experience working with different types of databases such as:
+
+- Relational databases:
+  - Postgres
+  - MySQL
+- Non-relational databases:
+  - MongoDB
+  - Kafka
+  - Redis
+
+On this profile, you will find a variety of projects that demonstrate my skills and experience in these technologies.
+
+Feel free to have a look around and don't hesitate to reach out if you have any questions or just want to say hi.
+
+Thank you for visiting!
