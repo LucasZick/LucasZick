@@ -1,4 +1,4 @@
-Welcome to my GitHub Profile!
+# Welcome to my GitHub Profile!
 
 I am a developer with a passion for creating efficient and elegant solutions. My skills include experience in multiple programming languages such as:
 
