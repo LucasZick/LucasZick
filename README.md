@@ -1,22 +1,10 @@
-# Welcome to my GitHub Profile!
+## Welcome to my GitHub Profile!
 
-I am a developer with a passion for creating efficient and elegant solutions. My skills include experience in multiple programming languages such as:
+I am a Full-Stack developer with a passion for creating efficient and elegant front-end solutions using JavaScript, Dart and Flutter. While my back-end skills include experience working with Python and different types of databases such as MySQL, PostgreSQL, MongoDB, Kafka, and Redis.
 
-- Python
-- Dart with Flutter
-- JavaScript with React JS
+I have a technical degree in web development from SENAI and I am currently finishing my bachelor's degree in Information Systems at UDESC. In addition, I will also be attending a business course extension in Berlin, Germany while completing my studies at UDESC.
 
-I also have experience working with different types of databases such as:
-
-- Relational databases:
-  - Postgres
-  - MySQL
-- Non-relational databases:
-  - MongoDB
-  - Kafka
-  - Redis
-
-On this profile, you will find a variety of projects that demonstrate my skills and experience in these technologies.
+On this profile, you will find a variety of projects that demonstrate my skills and experience in these technologies. I am always looking to expand my knowledge and stay up-to-date with the latest technologies and trends.
 
 Feel free to have a look around and don't hesitate to reach out if you have any questions or just want to say hi.
 
